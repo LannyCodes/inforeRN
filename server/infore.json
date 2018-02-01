@@ -1,0 +1,1977 @@
+[
+  {
+    "url": "/infore-pro-manager/app/test",
+    "method": "post",
+    "response": {
+      "code": "0",
+      "message": "",
+      "body": [
+        {
+          "name": "樱木花道",
+          "isConfirm": "1",
+          "headerImage": "https://github.com/MIFind/Gankio/raw/master/Image/cehua.jpg",
+          "tip": "这里是一些确认问题的说明，确认问题的说明"
+        },
+        {
+          "name": "流川枫",
+          "isConfirm": "0",
+          "headerImage": "https://github.com/MIFind/Gankio/raw/master/Image/cehua.jpg"
+        },
+        {
+          "name": "三井寿",
+          "isConfirm": "1",
+          "headerImage": "https://github.com/MIFind/Gankio/raw/master/Image/cehua.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "url": "/infore-pro-manager/app/Login/checkLogin",
+    "method": "post",
+    "response": {
+      "code": "0",
+      "message": "",
+      "body": {
+        "applicationId": "null",
+        "applicationName": "null",
+        "createTime": "1495419078000",
+        "createUser": "super",
+        "deleted": "0",
+        "email": "1231@qq.com",
+        "img": "null",
+        "ip": "null",
+        "jobNum": "null",
+        "lastLoginTime": "null",
+        "locked": "0",
+        "mobile": "13714896497",
+        "organizeId": "26",
+        "organizeName": "宇星科技",
+        "password": "14e1b600b1fd579f47433b88e8d85291",
+        "position": "null",
+        "tel": "null",
+        "updateTime": "1496648379000",
+        "updateUser": "sushun",
+        "userId": "34",
+        "userName": "sushun"
+      }
+    }
+  },
+  {
+    "url": "/infore-pro-manager/app/loginValidate/getValidateCode",
+    "method": "post",
+    "response": {
+      "code": "0",
+      "message": "",
+      "body": {
+      }
+    }
+  },
+  {
+    "url": "/infore-pro-manager/app/loginValidate/getValidateCode",
+    "method": "post",
+    "response": {
+      "code": "0",
+      "message": "",
+      "body": {
+      }
+    }
+  },
+  {
+    "url": "/infore-pro-manager/app/loginValidate/verifyOtp",
+    "method": "post",
+    "response": {
+      "code": "0",
+      "message": "",
+      "body": {
+      }
+    }
+  },
+  {
+    "url": "/infore-pro-manager/app/loginValidate/changePassword",
+    "method": "post",
+    "response": {
+      "code": "0",
+      "message": "",
+      "body": {
+      }
+    }
+  },
+  {
+    "url": "/infore-pro-manager/app/getInforeTaskList",
+    "method": "post",
+    "response": {
+      "code": "0",
+      "message": "",
+      "body": {
+        "tasks": [
+          {
+            "headerImg": "https://avatars3.githubusercontent.com/u/1370775?v=3&s=460",
+            "departmentStaff": "监测事业部-赵云",
+            "taskTime": "2017-05-25 15:33",
+            "taskContent": "#甘肃省疏勒河流域项目#  关于甘肃省疏勒河流域水权试点已建设完毕，请审批合同关于甘肃省疏勒河流域水权试点已建设完毕，请审批合同。",
+            "taskStatus": "待审批",
+            "taskPics": [
+              {
+                "taskPicture": "https://github.com/MIFind/Gankio/raw/master/Image/cehua.jpg"
+              },
+              {
+                "taskPicture": "https://avatars3.githubusercontent.com/u/1024672?v=3&s=460"
+              },
+              {
+                "taskPicture": "https://avatars2.githubusercontent.com/u/482957?v=3&s=460"
+              },
+              {
+                "taskPicture": "https://avatars2.githubusercontent.com/u/745341?v=3&s=96"
+              },
+              {
+                "taskPicture": "https://avatars2.githubusercontent.com/u/482957?v=3&s=460"
+              },
+              {
+                "taskPicture": "https://avatars2.githubusercontent.com/u/482957?v=3&s=460"
+              },
+              {
+                "taskPicture": "https://avatars2.githubusercontent.com/u/482957?v=3&s=460"
+              }
+            ]
+          },
+          {
+            "headerImg": "https://avatars0.githubusercontent.com/u/24772?v=3&s=96",
+            "departmentStaff": "监测事业部-周杰伦",
+            "taskTime": "2017-05-20 12:54",
+            "taskContent": "#江苏省疏勒河流域项目#关于甘肃省疏勒河流域水权试点已建设完毕，请审批合同关于甘肃省疏勒河流域水权试点已建设完毕，请审批合同。",
+            "taskStatus": "已通过"
+          },
+          {
+            "headerImg": "https://avatars2.githubusercontent.com/u/745341?v=3&s=96",
+            "departmentStaff": "监测事业部-林俊杰",
+            "taskTime": "2017-05-19 12:54",
+            "taskContent": "#福建省疏勒河流域项目#关于甘肃省疏勒河流域水权试点已建设完毕，请审批合同关于甘肃省疏勒河流域水权试点已建设完毕，请审批合同。",
+            "taskStatus": "待审批",
+            "taskPics": [
+              {
+                "taskPicture": "https://avatars0.githubusercontent.com/u/14226381?v=3&s=460"
+              },
+              {
+                "taskPicture": "https://avatars2.githubusercontent.com/u/2433775?v=3&s=460"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "url": "/infore-pro-manager/app/getUserListByOrganizeId",
+    "method": "post",
+    "response": {
+      "code": "0",
+      "message": "操作成功",
+      "body": {
+        "userList": [
+        ],
+        "organizeList": [
+          {
+            "organizeId": 1,
+            "organizeName": "集团",
+            "organizeDesc": null,
+            "organizeKey": null,
+            "parentId": -1,
+            "serialNum": 1,
+            "createTime": null,
+            "updateTime": null,
+            "createUser": null,
+            "updateUser": null,
+            "childrens": null,
+            "users": [
+              {
+                "userId": 1,
+                "userName": "wang",
+                "password": null,
+                "nickName": "老王",
+                "mobile": "1395031322",
+                "email": "13231@163.com",
+                "position": "工程师",
+                "tel": "35032131",
+                "img": "https://avatars2.githubusercontent.com/u/14837868?v=3&s=460",
+                "jobNum": null,
+                "deleted": null,
+                "lastLoginTime": null,
+                "locked": null,
+                "createTime": null,
+                "updateTime": null,
+                "createUser": null,
+                "updateUser": null,
+                "applicationName": null,
+                "applicationId": null,
+                "ip": null,
+                "organizeId": null,
+                "organizeName": null
+              },
+              {
+                "userId": 2,
+                "userName": "wang",
+                "password": null,
+                "nickName": null,
+                "mobile": null,
+                "email": null,
+                "position": null,
+                "tel": null,
+                "img": null,
+                "jobNum": null,
+                "deleted": null,
+                "lastLoginTime": null,
+                "locked": null,
+                "createTime": null,
+                "updateTime": null,
+                "createUser": null,
+                "updateUser": null,
+                "applicationName": null,
+                "applicationId": null,
+                "ip": null,
+                "organizeId": null,
+                "organizeName": null
+              }
+            ]
+          },
+          {
+            "organizeId": 1,
+            "organizeName": "股份公司",
+            "organizeDesc": null,
+            "organizeKey": null,
+            "parentId": -1,
+            "serialNum": 1,
+            "createTime": null,
+            "updateTime": null,
+            "createUser": null,
+            "updateUser": null,
+            "childrens": [
+              {
+                "organizeId": 23,
+                "organizeName": "股份本部",
+                "organizeDesc": null,
+                "organizeKey": null,
+                "parentId": 1,
+                "serialNum": 1,
+                "createTime": null,
+                "updateTime": null,
+                "createUser": null,
+                "updateUser": null,
+                "childrens": null,
+                "users": [
+                  {
+                    "userId": 3,
+                    "userName": "wang",
+                    "password": null,
+                    "nickName": null,
+                    "mobile": null,
+                    "email": null,
+                    "position": null,
+                    "tel": null,
+                    "img": null,
+                    "jobNum": null,
+                    "deleted": null,
+                    "lastLoginTime": null,
+                    "locked": null,
+                    "createTime": null,
+                    "updateTime": null,
+                    "createUser": null,
+                    "updateUser": null,
+                    "applicationName": null,
+                    "applicationId": null,
+                    "ip": null,
+                    "organizeId": null,
+                    "organizeName": null
+                  }
+                ]
+              },
+              {
+                "organizeId": 24,
+                "organizeName": "电磁事业部",
+                "organizeDesc": null,
+                "organizeKey": null,
+                "parentId": 1,
+                "serialNum": 2,
+                "createTime": null,
+                "updateTime": null,
+                "createUser": null,
+                "updateUser": null,
+                "childrens": null,
+                "users": [
+                  {
+                    "userId": 4,
+                    "userName": "kermit",
+                    "password": null,
+                    "nickName": null,
+                    "mobile": null,
+                    "email": null,
+                    "position": null,
+                    "tel": null,
+                    "img": null,
+                    "jobNum": null,
+                    "deleted": null,
+                    "lastLoginTime": null,
+                    "locked": null,
+                    "createTime": null,
+                    "updateTime": null,
+                    "createUser": null,
+                    "updateUser": null,
+                    "applicationName": null,
+                    "applicationId": null,
+                    "ip": null,
+                    "organizeId": null,
+                    "organizeName": null
+                  },
+                  {
+                    "userId": 5,
+                    "userName": "wenlinqing",
+                    "password": null,
+                    "nickName": null,
+                    "mobile": null,
+                    "email": null,
+                    "position": null,
+                    "tel": null,
+                    "img": null,
+                    "jobNum": null,
+                    "deleted": null,
+                    "lastLoginTime": null,
+                    "locked": null,
+                    "createTime": null,
+                    "updateTime": null,
+                    "createUser": null,
+                    "updateUser": null,
+                    "applicationName": null,
+                    "applicationId": null,
+                    "ip": null,
+                    "organizeId": null,
+                    "organizeName": null
+                  }
+                ]
+              },
+              {
+                "organizeId": 25,
+                "organizeName": "风机公司",
+                "organizeDesc": null,
+                "organizeKey": null,
+                "parentId": 1,
+                "serialNum": 3,
+                "createTime": null,
+                "updateTime": null,
+                "createUser": null,
+                "updateUser": null,
+                "childrens": null,
+                "users": [
+                ]
+              },
+              {
+                "organizeId": 26,
+                "organizeName": "宇星科技",
+                "organizeDesc": null,
+                "organizeKey": null,
+                "parentId": 1,
+                "serialNum": 4,
+                "createTime": null,
+                "updateTime": null,
+                "createUser": null,
+                "updateUser": null,
+                "childrens": [
+                  {
+                    "organizeId": 29,
+                    "organizeName": "治理事业部",
+                    "organizeDesc": null,
+                    "organizeKey": null,
+                    "parentId": 26,
+                    "serialNum": 1,
+                    "createTime": null,
+                    "updateTime": null,
+                    "createUser": null,
+                    "updateUser": null,
+                    "childrens": null,
+                    "users": [
+                    ]
+                  },
+                  {
+                    "organizeId": 30,
+                    "organizeName": "监测事业部",
+                    "organizeDesc": null,
+                    "organizeKey": null,
+                    "parentId": 26,
+                    "serialNum": 2,
+                    "createTime": null,
+                    "updateTime": null,
+                    "createUser": null,
+                    "updateUser": null,
+                    "childrens": [
+                      {
+                        "organizeId": 31,
+                        "organizeName": "人力资源管理",
+                        "organizeDesc": null,
+                        "organizeKey": null,
+                        "parentId": 30,
+                        "serialNum": 1,
+                        "createTime": null,
+                        "updateTime": null,
+                        "createUser": null,
+                        "updateUser": null,
+                        "childrens": [
+                          {
+                            "organizeId": 32,
+                            "organizeName": "行政后勤",
+                            "organizeDesc": null,
+                            "organizeKey": null,
+                            "parentId": 30,
+                            "serialNum": 3,
+                            "createTime": null,
+                            "updateTime": null,
+                            "createUser": null,
+                            "updateUser": null,
+                            "childrens": null,
+                            "users": [
+                              {
+                                "userId": 6,
+                                "userName": "wang",
+                                "password": null,
+                                "nickName": "老王",
+                                "mobile": "1395031322",
+                                "email": "13231@163.com",
+                                "position": "工程师",
+                                "tel": "35032131",
+                                "img": "https://avatars2.githubusercontent.com/u/14837868?v=3&s=460",
+                                "jobNum": null,
+                                "deleted": null,
+                                "lastLoginTime": null,
+                                "locked": null,
+                                "createTime": null,
+                                "updateTime": null,
+                                "createUser": null,
+                                "updateUser": null,
+                                "applicationName": null,
+                                "applicationId": null,
+                                "ip": null,
+                                "organizeId": null,
+                                "organizeName": "行政后勤"
+                              },
+                              {
+                                "userId": 7,
+                                "userName": "wang",
+                                "password": null,
+                                "nickName": null,
+                                "mobile": null,
+                                "email": null,
+                                "position": null,
+                                "tel": null,
+                                "img": null,
+                                "jobNum": null,
+                                "deleted": null,
+                                "lastLoginTime": null,
+                                "locked": null,
+                                "createTime": null,
+                                "updateTime": null,
+                                "createUser": null,
+                                "updateUser": null,
+                                "applicationName": null,
+                                "applicationId": null,
+                                "ip": null,
+                                "organizeId": null,
+                                "organizeName": null
+                              }
+                            ]
+                          },
+                          {
+                            "organizeId": 32,
+                            "organizeName": "IT",
+                            "organizeDesc": null,
+                            "organizeKey": null,
+                            "parentId": 30,
+                            "serialNum": 3,
+                            "createTime": null,
+                            "updateTime": null,
+                            "createUser": null,
+                            "updateUser": null,
+                            "childrens": null,
+                            "users": [
+                            ]
+                          }
+                        ],
+                        "users": [
+                        ]
+                      },
+                      {
+                        "organizeId": 32,
+                        "organizeName": "行政后勤、IT管理、营运管理",
+                        "organizeDesc": null,
+                        "organizeKey": null,
+                        "parentId": 30,
+                        "serialNum": 3,
+                        "createTime": null,
+                        "updateTime": null,
+                        "createUser": null,
+                        "updateUser": null,
+                        "childrens": null,
+                        "users": [
+                          {
+                            "userId": 8,
+                            "userName": "wang",
+                            "password": null,
+                            "nickName": null,
+                            "mobile": null,
+                            "email": null,
+                            "position": null,
+                            "tel": null,
+                            "img": null,
+                            "jobNum": null,
+                            "deleted": null,
+                            "lastLoginTime": null,
+                            "locked": null,
+                            "createTime": null,
+                            "updateTime": null,
+                            "createUser": null,
+                            "updateUser": null,
+                            "applicationName": null,
+                            "applicationId": null,
+                            "ip": null,
+                            "organizeId": null,
+                            "organizeName": null
+                          }
+                        ]
+                      },
+                      {
+                        "organizeId": 33,
+                        "organizeName": "财务",
+                        "organizeDesc": null,
+                        "organizeKey": null,
+                        "parentId": 30,
+                        "serialNum": 4,
+                        "createTime": null,
+                        "updateTime": null,
+                        "createUser": null,
+                        "updateUser": null,
+                        "childrens": null,
+                        "users": [
+                        ]
+                      },
+                      {
+                        "organizeId": 34,
+                        "organizeName": "供应链管理",
+                        "organizeDesc": null,
+                        "organizeKey": null,
+                        "parentId": 30,
+                        "serialNum": 4,
+                        "createTime": null,
+                        "updateTime": null,
+                        "createUser": null,
+                        "updateUser": null,
+                        "childrens": null,
+                        "users": [
+                        ]
+                      },
+                      {
+                        "organizeId": 35,
+                        "organizeName": "研发管理",
+                        "organizeDesc": null,
+                        "organizeKey": null,
+                        "parentId": 30,
+                        "serialNum": 5,
+                        "createTime": null,
+                        "updateTime": null,
+                        "createUser": null,
+                        "updateUser": null,
+                        "childrens": null,
+                        "users": [
+                          {
+                            "userId": 9,
+                            "userName": "wang",
+                            "password": null,
+                            "nickName": null,
+                            "mobile": null,
+                            "email": null,
+                            "position": null,
+                            "tel": null,
+                            "img": null,
+                            "jobNum": null,
+                            "deleted": null,
+                            "lastLoginTime": null,
+                            "locked": null,
+                            "createTime": null,
+                            "updateTime": null,
+                            "createUser": null,
+                            "updateUser": null,
+                            "applicationName": null,
+                            "applicationId": null,
+                            "ip": null,
+                            "organizeId": null,
+                            "organizeName": null
+                          }
+                        ]
+                      },
+                      {
+                        "organizeId": 36,
+                        "organizeName": "创新中心",
+                        "organizeDesc": null,
+                        "organizeKey": null,
+                        "parentId": 30,
+                        "serialNum": 6,
+                        "createTime": null,
+                        "updateTime": null,
+                        "createUser": null,
+                        "updateUser": null,
+                        "childrens": null,
+                        "users": [
+                          {
+                            "userId": 10,
+                            "userName": "super",
+                            "password": null,
+                            "nickName": null,
+                            "mobile": null,
+                            "email": null,
+                            "position": null,
+                            "tel": null,
+                            "img": null,
+                            "jobNum": null,
+                            "deleted": null,
+                            "lastLoginTime": null,
+                            "locked": null,
+                            "createTime": null,
+                            "updateTime": null,
+                            "createUser": null,
+                            "updateUser": null,
+                            "applicationName": null,
+                            "applicationId": null,
+                            "ip": null,
+                            "organizeId": null,
+                            "organizeName": null
+                          },
+                          {
+                            "userId": 11,
+                            "userName": "admin",
+                            "password": null,
+                            "nickName": null,
+                            "mobile": null,
+                            "email": null,
+                            "position": null,
+                            "tel": null,
+                            "img": null,
+                            "jobNum": null,
+                            "deleted": null,
+                            "lastLoginTime": null,
+                            "locked": null,
+                            "createTime": null,
+                            "updateTime": null,
+                            "createUser": null,
+                            "updateUser": null,
+                            "applicationName": null,
+                            "applicationId": null,
+                            "ip": null,
+                            "organizeId": null,
+                            "organizeName": null
+                          },
+                          {
+                            "userId": 12,
+                            "userName": "eshopAdmin",
+                            "password": null,
+                            "nickName": null,
+                            "mobile": null,
+                            "email": null,
+                            "position": null,
+                            "tel": null,
+                            "img": null,
+                            "jobNum": null,
+                            "deleted": null,
+                            "lastLoginTime": null,
+                            "locked": null,
+                            "createTime": null,
+                            "updateTime": null,
+                            "createUser": null,
+                            "updateUser": null,
+                            "applicationName": null,
+                            "applicationId": null,
+                            "ip": null,
+                            "organizeId": null,
+                            "organizeName": null
+                          },
+                          {
+                            "userId": 13,
+                            "userName": "wangs",
+                            "password": null,
+                            "nickName": null,
+                            "mobile": null,
+                            "email": null,
+                            "position": null,
+                            "tel": null,
+                            "img": null,
+                            "jobNum": null,
+                            "deleted": null,
+                            "lastLoginTime": null,
+                            "locked": null,
+                            "createTime": null,
+                            "updateTime": null,
+                            "createUser": null,
+                            "updateUser": null,
+                            "applicationName": null,
+                            "applicationId": null,
+                            "ip": null,
+                            "organizeId": null,
+                            "organizeName": null
+                          },
+                          {
+                            "userId": 14,
+                            "userName": "zengxiaoming",
+                            "password": null,
+                            "nickName": null,
+                            "mobile": null,
+                            "email": null,
+                            "position": null,
+                            "tel": null,
+                            "img": null,
+                            "jobNum": null,
+                            "deleted": null,
+                            "lastLoginTime": null,
+                            "locked": null,
+                            "createTime": null,
+                            "updateTime": null,
+                            "createUser": null,
+                            "updateUser": null,
+                            "applicationName": null,
+                            "applicationId": null,
+                            "ip": null,
+                            "organizeId": null,
+                            "organizeName": null
+                          },
+                          {
+                            "userId": 15,
+                            "userName": "test3",
+                            "password": null,
+                            "nickName": null,
+                            "mobile": null,
+                            "email": null,
+                            "position": null,
+                            "tel": null,
+                            "img": null,
+                            "jobNum": null,
+                            "deleted": null,
+                            "lastLoginTime": null,
+                            "locked": null,
+                            "createTime": null,
+                            "updateTime": null,
+                            "createUser": null,
+                            "updateUser": null,
+                            "applicationName": null,
+                            "applicationId": null,
+                            "ip": null,
+                            "organizeId": null,
+                            "organizeName": null
+                          },
+                          {
+                            "userId": 16,
+                            "userName": "test4",
+                            "password": null,
+                            "nickName": null,
+                            "mobile": null,
+                            "email": null,
+                            "position": null,
+                            "tel": null,
+                            "img": null,
+                            "jobNum": null,
+                            "deleted": null,
+                            "lastLoginTime": null,
+                            "locked": null,
+                            "createTime": null,
+                            "updateTime": null,
+                            "createUser": null,
+                            "updateUser": null,
+                            "applicationName": null,
+                            "applicationId": null,
+                            "ip": null,
+                            "organizeId": null,
+                            "organizeName": null
+                          },
+                          {
+                            "userId": 17,
+                            "userName": "wangjj",
+                            "password": null,
+                            "nickName": null,
+                            "mobile": null,
+                            "email": null,
+                            "position": null,
+                            "tel": null,
+                            "img": null,
+                            "jobNum": null,
+                            "deleted": null,
+                            "lastLoginTime": null,
+                            "locked": null,
+                            "createTime": null,
+                            "updateTime": null,
+                            "createUser": null,
+                            "updateUser": null,
+                            "applicationName": null,
+                            "applicationId": null,
+                            "ip": null,
+                            "organizeId": null,
+                            "organizeName": null
+                          },
+                          {
+                            "userId": 18,
+                            "userName": "manolo",
+                            "password": null,
+                            "nickName": null,
+                            "mobile": null,
+                            "email": null,
+                            "position": null,
+                            "tel": null,
+                            "img": null,
+                            "jobNum": null,
+                            "deleted": null,
+                            "lastLoginTime": null,
+                            "locked": null,
+                            "createTime": null,
+                            "updateTime": null,
+                            "createUser": null,
+                            "updateUser": null,
+                            "applicationName": null,
+                            "applicationId": null,
+                            "ip": null,
+                            "organizeId": null,
+                            "organizeName": null
+                          },
+                          {
+                            "userId": 19,
+                            "userName": "linsuli",
+                            "password": null,
+                            "nickName": null,
+                            "mobile": null,
+                            "email": null,
+                            "position": null,
+                            "tel": null,
+                            "img": null,
+                            "jobNum": null,
+                            "deleted": null,
+                            "lastLoginTime": null,
+                            "locked": null,
+                            "createTime": null,
+                            "updateTime": null,
+                            "createUser": null,
+                            "updateUser": null,
+                            "applicationName": null,
+                            "applicationId": null,
+                            "ip": null,
+                            "organizeId": null,
+                            "organizeName": null
+                          }
+                        ]
+                      }
+                    ],
+                    "users": [
+                    ]
+                  }
+                ],
+                "users": [
+                  {
+                    "userId": 20,
+                    "userName": "sushun",
+                    "password": null,
+                    "nickName": null,
+                    "mobile": null,
+                    "email": null,
+                    "position": null,
+                    "tel": null,
+                    "img": null,
+                    "jobNum": null,
+                    "deleted": null,
+                    "lastLoginTime": null,
+                    "locked": null,
+                    "createTime": null,
+                    "updateTime": null,
+                    "createUser": null,
+                    "updateUser": null,
+                    "applicationName": null,
+                    "applicationId": null,
+                    "ip": null,
+                    "organizeId": null,
+                    "organizeName": null
+                  }
+                ]
+              },
+              {
+                "organizeId": 27,
+                "organizeName": "水处理事业部",
+                "organizeDesc": null,
+                "organizeKey": null,
+                "parentId": 1,
+                "serialNum": 5,
+                "createTime": null,
+                "updateTime": null,
+                "createUser": null,
+                "updateUser": null,
+                "childrens": null,
+                "users": [
+                ]
+              },
+              {
+                "organizeId": 28,
+                "organizeName": "固废事业部",
+                "organizeDesc": null,
+                "organizeKey": null,
+                "parentId": 1,
+                "serialNum": 6,
+                "createTime": null,
+                "updateTime": null,
+                "createUser": null,
+                "updateUser": null,
+                "childrens": null,
+                "users": [
+                ]
+              }
+            ],
+            "users": [
+              {
+                "userId": 21,
+                "userName": "super",
+                "password": null,
+                "nickName": "老张",
+                "mobile": null,
+                "email": null,
+                "position": null,
+                "tel": null,
+                "img": null,
+                "jobNum": null,
+                "deleted": null,
+                "lastLoginTime": null,
+                "locked": null,
+                "createTime": null,
+                "updateTime": null,
+                "createUser": null,
+                "updateUser": null,
+                "applicationName": null,
+                "applicationId": null,
+                "ip": null,
+                "organizeId": null,
+                "organizeName": null
+              },
+              {
+                "userId": 22,
+                "userName": "admin",
+                "password": null,
+                "nickName": "老李",
+                "mobile": null,
+                "email": null,
+                "position": null,
+                "tel": null,
+                "img": null,
+                "jobNum": null,
+                "deleted": null,
+                "lastLoginTime": null,
+                "locked": null,
+                "createTime": null,
+                "updateTime": null,
+                "createUser": null,
+                "updateUser": null,
+                "applicationName": null,
+                "applicationId": null,
+                "ip": null,
+                "organizeId": null,
+                "organizeName": null
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "url": "/infore-pro-manager/app/message/findInstationMessageList",
+    "method": "post",
+    "response": {
+      "code": "0",
+      "message": "操作成功",
+      "body": {
+        "list": [
+        ]
+      }
+    }
+  },
+  {
+    "url": "/infore-pro-manager/app/getQuestionListRequest",
+    "method": "post",
+    "response": {
+      "code": "0",
+      "message": "",
+      "body": {
+        "questionList": [
+          {
+            "question": "甘肃省疏勒河流域项目",
+            "description": "成品／空气在线监测站/YX-AQMS/1.6M双联机柜／全因子／法国环境分析仪／新疆哈巴河空气站项目／YXXBXXJ2016005！",
+            "status": "未解决",
+            "plantime": "2017-07-08"
+          },
+          {
+            "question": "甘肃省疏勒河流域项目",
+            "description": "成品／空气在线监测站/YX-AQMS/1.6M双联机柜／全因子／法国环境分析仪／新疆哈巴河空气站项目／YXXBXXJ2016005！！",
+            "status": "已解决",
+            "plantime": "2017-07-08"
+          },
+          {
+            "question": "甘肃省疏勒河流域项目",
+            "description": "成品／空气在线监测站/YX-AQMS/1.6M双联机柜／全因子／法国环境分析仪／新疆哈巴河空气站项目／YXXBXXJ2016005！！！",
+            "status": "未解决",
+            "plantime": "2017-07-08"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "url": "/infore-pro-manager/app/getQuestionDetailRequest",
+    "method": "post",
+    "response": {
+      "code": "0",
+      "message": "",
+      "body": {
+        "questionDetail": [
+          {
+            "person": "王大陆",
+            "department": "监测事业部",
+            "condition": "已解决",
+            "solvetime": "2017-07-08"
+          },
+          {
+            "person": "张大千",
+            "department": "监测事业部",
+            "condition": "已解决",
+            "solvetime": "2017-07-08"
+          },
+          {
+            "person": "宇文怀",
+            "department": "监测事业部",
+            "condition": "已解决",
+            "solvetime": "2017-07-08"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "url": "/infore-pro-manager/app/getInforeResInfo",
+    "method": "post",
+    "response": {
+      "code": "0",
+      "message": "",
+      "body": {
+        "resList": [
+          {
+            "fileName": "甘肃流域项目",
+            "fileSize": "24.63KB",
+            "updateTime": "五天前",
+            "address": "陆川"
+          },
+          {
+            "fileName": "浙江温州苍南县环保项目",
+            "fileSize": "24.63KB",
+            "updateTime": "五天前",
+            "address": "陆川"
+          },
+          {
+            "fileName": "甘肃流域项目",
+            "fileSize": "24.63KB",
+            "updateTime": "五天前",
+            "address": "陆川"
+          },
+          {
+            "fileName": "甘肃流域项目",
+            "fileSize": "24.63KB",
+            "updateTime": "五天前",
+            "address": "陆川"
+          },
+          {
+            "fileName": "甘肃流域项目",
+            "fileSize": "24.63KB",
+            "updateTime": "五天前",
+            "address": "陆川"
+          },
+          {
+            "fileName": "甘肃流域项目",
+            "fileSize": "24.63KB",
+            "updateTime": "五天前",
+            "address": "陆川"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "url": "/infore-pro-manager/app/procurement/findContractList",
+    "method": "post",
+    "response": {
+      "code": "0",
+      "message": "",
+      "body": {
+        "stockList": [
+          {
+            "projectName": "甘肃省疏勒流域项目",
+            "projectNo": "YXNBYDD2017010",
+            "contractNo": "YXNBYDD2017010",
+            "senddate": "2017-05-18",
+            "leakcondition": "少双联机柜木箱／700x100..."
+          },
+          {
+            "projectName": "甘肃省疏勒流域项目",
+            "projectNo": "YXNBYDD2017010",
+            "contractNo": "YXNBYDD2017010",
+            "senddate": "2017-05-18",
+            "leakcondition": "少双联机柜木箱／700x100..."
+          },
+          {
+            "projectName": "甘肃省疏勒流域项目",
+            "projectNo": "YXNBYDD2017010",
+            "contractNo": "YXNBYDD2017010",
+            "senddate": "2017-05-18",
+            "leakcondition": "少双联机柜木箱／700x100..."
+          }
+        ]
+      }
+    }
+  },
+  {
+    "url": "/infore-pro-manager/app/getStockDetail",
+    "method": "post",
+    "response": {
+      "code": "0",
+      "message": "",
+      "body": {
+        "stockdetail": {
+          "qhdescribe": "成品／空气在线监测站/YX-AQMS/1.6M双联机柜／全因子／法国环境分析仪／新疆哈巴河空气站项目／YXXBXXJ2016005",
+          "ckpics": [
+            "https://avatars3.githubusercontent.com/u/1024672?v=3&s=460",
+            "https://avatars3.githubusercontent.com/u/1024672?v=3&s=460",
+            "https://avatars3.githubusercontent.com/u/1024672?v=3&s=460"
+          ],
+          "fxarrs": [
+            {
+              "des": "父项描述1",
+              "content": "成品／空气在线监测站/YX-AQMS/1.6M双联机柜／全因子／法国环境分析仪／新疆哈巴河空气站项目／YXXBXXJ2016005",
+              "children": [
+                {
+                  "des": "子项描述1",
+                  "content": "成品／空气在线监测站/YX-AQMS/1.6M双联机柜／全因子／法国环境分析仪／新疆哈巴河空气站项目／YXXBXXJ2016005",
+                  "size": "1",
+                  "person": "路传"
+                },
+                {
+                  "des": "子项描述2",
+                  "content": "成品／空气在线监测站/YX-AQMS/1.6M双联机柜／全因子／法国环境分析仪／新疆哈巴河空气站项目／YXXBXXJ2016005",
+                  "size": "1",
+                  "person": "陆游"
+                },
+                {
+                  "des": "子项描述3",
+                  "content": "成品／空气在线监测站/YX-AQMS/1.6M双联机柜／全因子／法国环境分析仪／新疆哈巴河空气站项目／YXXBXXJ2016005",
+                  "size": "1",
+                  "person": "路遥"
+                }
+              ]
+            },
+            {
+              "des": "父项描述2",
+              "content": "成品／空气在线监测站/YX-AQMS/1.6M双联机柜／全因子／法国环境分析仪／新疆哈巴河空气站项目／YXXBXXJ2016005",
+              "children": [
+                {
+                  "des": "子项描述1",
+                  "content": "成品／空气在线监测站/YX-AQMS/1.6M双联机柜／全因子／法国环境分析仪／新疆哈巴河空气站项目／YXXBXXJ2016005",
+                  "size": "1",
+                  "person": "路传"
+                },
+                {
+                  "des": "子项描述2",
+                  "content": "成品／空气在线监测站/YX-AQMS/1.6M双联机柜／全因子／法国环境分析仪／新疆哈巴河空气站项目／YXXBXXJ2016005",
+                  "size": "1",
+                  "person": "陆游"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "url": "/infore-pro-manager/app/getProjectManageList",
+    "method": "post",
+    "response": {
+      "code": "0",
+      "message": "",
+      "body": [
+        {
+          "projectName": "甘肃省疏勒河流域项目1",
+          "projectStatus": "正常",
+          "projectNum": "YXDBYHN2017085",
+          "contractNum": "HTDBYHN2017085",
+          "planStartTime": "2017-05-18",
+          "projectStage": "申报中",
+          "projectId": "INFORE_001",
+          "projectStartTime": "2017-8-10",
+          "projectEndTime": "2017-12-10",
+          "projectImg": "https://avatars3.githubusercontent.com/u/72066?v=3&s=460"
+        },
+        {
+          "projectName": "甘肃省疏勒河流域项目2",
+          "projectStatus": "预警",
+          "projectNum": "YXDBYHN2017086",
+          "contractNum": "HTDBYHN2017087",
+          "planStartTime": "2017-05-18",
+          "projectStage": "已拒绝",
+          "projectId": "INFORE_002",
+          "projectStartTime": "2017-5-10",
+          "projectEndTime": "2017-8-10",
+          "projectImg": "https://avatars1.githubusercontent.com/u/623819?v=3&s=200"
+        },
+        {
+          "projectName": "甘肃省疏勒河流域项目3",
+          "projectStatus": "延期",
+          "projectNum": "YXDBYHN2017087",
+          "contractNum": "HTDBYHN2017087",
+          "planStartTime": "2017-05-15",
+          "projectStage": "已通过",
+          "projectId": "INFORE_003",
+          "projectStartTime": "2017-6-10",
+          "projectEndTime": "2017-7-10",
+          "projectImg": "https://avatars1.githubusercontent.com/u/1872982?v=3&s=460"
+        }
+      ]
+    }
+  },
+  {
+    "url": "/infore-pro-manager/app/getProjectDetail",
+    "method": "post",
+    "response": {
+      "code": "0",
+      "message": "",
+      "body": {
+        "projectDetail": {
+          "projectName": "甘肃省疏勒河流域项目1",
+          "projectNum": "YXDBYHN2017085",
+          "contractNum": "YXDBYHN2017ffefe",
+          "planStartPerson": "陆川",
+          "planStartTime": "2017-5-26",
+          "planEndTime": "2017-8-30",
+          "realStartTime": "2017-8-31",
+          "realEndTime": "2017-9-31",
+          "projectChargePerson": "王百川",
+          "projectTip": "甘肃省疏勒河流域项目是本年度公司重点项目，时间紧任务重，各位同仁需尽心尽力完成。"
+        }
+      }
+    }
+  },
+  {
+    "url": "/infore-pro-manager/app/task/getTaskGanttAppList",
+    "method": "post",
+    "response": {
+      "code": "0",
+      "message": "",
+      "body": {
+        "id": "1",
+        "projectId": "P201705221005",
+        "name": "Gantt editor",
+        "dutyDepartment": null,
+        "duty": null,
+        "progress": 0,
+        "description": "",
+        "code": "",
+        "level": 0,
+        "status": "STATUS_ACTIVE",
+        "depends": "",
+        "canWrite": true,
+        "start": 1497456000000,
+        "duration": 28,
+        "end": 1500912000000,
+        "startIsMilestone": true,
+        "endIsMilestone": false,
+        "collapsed": false,
+        "earlyStart": null,
+        "earlyFinish": null,
+        "latestStart": null,
+        "latestFinish": null,
+        "criticalCost": null,
+        "hasChild": true,
+        "sort": 1,
+        "ganttId": "111",
+        "auditorDepartment": null,
+        "auditor": null,
+        "taskPre": null,
+        "auditorState": null,
+        "taskState": null,
+        "state": null,
+        "messageState": 1,
+        "children": [
+          {
+            "id": "2",
+            "projectId": "P201705221005",
+            "name": "Task 2",
+            "dutyDepartment": null,
+            "duty": null,
+            "progress": 0,
+            "description": "",
+            "code": "",
+            "level": 1,
+            "status": "STATUS_ACTIVE",
+            "depends": "",
+            "canWrite": true,
+            "start": 1497456000000,
+            "duration": 10,
+            "end": 1498665600000,
+            "startIsMilestone": false,
+            "endIsMilestone": false,
+            "collapsed": false,
+            "earlyStart": null,
+            "earlyFinish": null,
+            "latestStart": null,
+            "latestFinish": null,
+            "criticalCost": null,
+            "hasChild": true,
+            "sort": 2,
+            "ganttId": "112",
+            "auditorDepartment": null,
+            "auditor": null,
+            "taskPre": null,
+            "auditorState": null,
+            "taskState": null,
+            "state": null,
+            "messageState": 1,
+            "children": [
+              {
+                "id": "2",
+                "projectId": "P201705221005",
+                "name": "Task 2",
+                "dutyDepartment": null,
+                "duty": null,
+                "progress": 0,
+                "description": "",
+                "code": "",
+                "level": 1,
+                "status": "STATUS_ACTIVE",
+                "depends": "",
+                "canWrite": true,
+                "start": 1497456000000,
+                "duration": 10,
+                "end": 1498665600000,
+                "startIsMilestone": false,
+                "endIsMilestone": false,
+                "collapsed": false,
+                "earlyStart": null,
+                "earlyFinish": null,
+                "latestStart": null,
+                "latestFinish": null,
+                "criticalCost": null,
+                "hasChild": true,
+                "sort": 2,
+                "ganttId": "112",
+                "auditorDepartment": null,
+                "auditor": null,
+                "taskPre": null,
+                "auditorState": null,
+                "taskState": null,
+                "state": null,
+                "messageState": 1,
+                "children": null,
+                "critical": false
+              },
+              {
+                "id": "2",
+                "projectId": "P201705221005",
+                "name": "Task 2",
+                "dutyDepartment": null,
+                "duty": null,
+                "progress": 0,
+                "description": "",
+                "code": "",
+                "level": 1,
+                "status": "STATUS_ACTIVE",
+                "depends": "",
+                "canWrite": true,
+                "start": 1497456000000,
+                "duration": 10,
+                "end": 1498665600000,
+                "startIsMilestone": false,
+                "endIsMilestone": false,
+                "collapsed": false,
+                "earlyStart": null,
+                "earlyFinish": null,
+                "latestStart": null,
+                "latestFinish": null,
+                "criticalCost": null,
+                "hasChild": true,
+                "sort": 2,
+                "ganttId": "112",
+                "auditorDepartment": null,
+                "auditor": null,
+                "taskPre": null,
+                "auditorState": null,
+                "taskState": null,
+                "state": null,
+                "messageState": 1,
+                "children": [
+                  {
+                    "id": "2",
+                    "projectId": "P201705221005",
+                    "name": "Task 2",
+                    "dutyDepartment": null,
+                    "duty": null,
+                    "progress": 0,
+                    "description": "",
+                    "code": "",
+                    "level": 1,
+                    "status": "STATUS_ACTIVE",
+                    "depends": "",
+                    "canWrite": true,
+                    "start": 1497456000000,
+                    "duration": 10,
+                    "end": 1498665600000,
+                    "startIsMilestone": false,
+                    "endIsMilestone": false,
+                    "collapsed": false,
+                    "earlyStart": null,
+                    "earlyFinish": null,
+                    "latestStart": null,
+                    "latestFinish": null,
+                    "criticalCost": null,
+                    "hasChild": true,
+                    "sort": 2,
+                    "ganttId": "112",
+                    "auditorDepartment": null,
+                    "auditor": null,
+                    "taskPre": null,
+                    "auditorState": null,
+                    "taskState": null,
+                    "state": null,
+                    "messageState": 1,
+                    "children": null,
+                    "critical": false
+                  }
+                ],
+                "critical": false
+              }
+            ],
+            "critical": false
+          },
+          {
+            "id": "2",
+            "projectId": "P201705221005",
+            "name": "Task 2",
+            "dutyDepartment": null,
+            "duty": null,
+            "progress": 0,
+            "description": "",
+            "code": "",
+            "level": 1,
+            "status": "STATUS_ACTIVE",
+            "depends": "",
+            "canWrite": true,
+            "start": 1497456000000,
+            "duration": 10,
+            "end": 1498665600000,
+            "startIsMilestone": false,
+            "endIsMilestone": false,
+            "collapsed": false,
+            "earlyStart": null,
+            "earlyFinish": null,
+            "latestStart": null,
+            "latestFinish": null,
+            "criticalCost": null,
+            "hasChild": true,
+            "sort": 2,
+            "ganttId": "112",
+            "auditorDepartment": null,
+            "auditor": null,
+            "taskPre": null,
+            "auditorState": null,
+            "taskState": null,
+            "state": null,
+            "messageState": 1,
+            "children": null,
+            "critical": false
+          }
+        ],
+        "critical": false
+      }
+    }
+  },
+  {
+    "url": "/infore-pro-manager/app/getProjectFileList",
+    "method": "post",
+    "response": {
+      "code": "0",
+      "message": "",
+      "body": {
+        "projectFileList": [
+          {
+            "fileType": "image",
+            "fileHeaderImg": "https://avatars1.githubusercontent.com/u/1872982?v=3&s=460",
+            "fileName": "IMG_1.JPG",
+            "fileUrl": "https://avatars1.githubusercontent.com/u/1872982?v=3&s=460",
+            "fileSize": "2kb",
+            "fileUpdateTime": "2017年5月26日",
+            "fileUpdatePerson": "周星驰"
+          },
+          {
+            "fileType": "image",
+            "fileHeaderImg": "https://avatars1.githubusercontent.com/u/623819?v=3&s=200",
+            "fileUrl": "https://avatars1.githubusercontent.com/u/623819?v=3&s=200",
+            "fileName": "IMG_2.JPG",
+            "fileSize": "5kb",
+            "fileUpdateTime": "2017年5月23日",
+            "fileUpdatePerson": "梁朝伟"
+          },
+          {
+            "fileType": "ppt",
+            "fileUrl": "https://view.officeapps.live.com/op/view.aspx?src=http%3a%2f%2fvideo.ch9.ms%2fbuild%2f2011%2fslides%2fTOOL-532T_Sutter.pptx",
+            "fileName": "测试.ppt",
+            "fileSize": "5kb",
+            "fileUpdateTime": "2017年5月23日",
+            "fileUpdatePerson": "周杰伦"
+          },
+          {
+            "fileType": "word",
+            "fileUrl": "https://view.officeapps.live.com/op/view.aspx?src=http://www.snee.com/xml/xslt/sample.doc",
+            "fileSize": "5kb",
+            "fileName": "测试.doc",
+            "fileUpdateTime": "2017年5月23日",
+            "fileUpdatePerson": "刘德华"
+          },
+          {
+            "fileType": "excel",
+            "fileUrl": "https://view.officeapps.live.com/op/view.aspx?src=http%3A%2F%2Flearn.bankofamerica.com%2Fcontent%2Fexcel%2FWedding_Budget_Planner_Spreadsheet.xlsx",
+            "fileName": "测试.xlsx",
+            "fileSize": "5kb",
+            "fileUpdateTime": "2017年5月23日",
+            "fileUpdatePerson": "Bigbang"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "url": "/infore-pro-manager/app/getProjectMemberList",
+    "method": "post",
+    "response": {
+      "code": "0",
+      "message": "",
+      "body": {
+        "projectMemberList": [
+          {
+            "memberName": "李宇春",
+            "memberHeaderImg": "https://avatars2.githubusercontent.com/u/4132027?v=3&s=88",
+            "memberType": "1"
+          },
+          {
+            "memberName": "周笔唱",
+            "memberHeaderImg": "https://avatars1.githubusercontent.com/u/16589871?v=3&s=88",
+            "memberType": "0"
+          },
+          {
+            "memberName": "张靓颖",
+            "memberHeaderImg": "https://avatars1.githubusercontent.com/u/14837868?v=3&s=88",
+            "memberType": "0"
+          },
+          {
+            "memberName": "莫文蔚",
+            "memberHeaderImg": "https://avatars0.githubusercontent.com/u/1411118?v=3&s=460",
+            "memberType": "0"
+          },
+          {
+            "memberName": "李晨",
+            "memberHeaderImg": "https://avatars3.githubusercontent.com/u/15066998?v=3&s=460",
+            "memberType": "0"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "url": "/infore-pro-manager/app/getProjectDynamicList",
+    "method": "post",
+    "response": {
+      "code": "0",
+      "message": "",
+      "body": {
+        "projectDynamicList": [
+          {
+            "personHeaderImg": "https://avatars3.githubusercontent.com/u/15066998?v=3&s=460",
+            "personName": "李晨",
+            "dynamicTime": "上午10:30",
+            "dynamicType": "上传了文件",
+            "dynamicPlanContent": "计划内容",
+            "dynamicFileList": [
+              {
+                "fileType": "excel",
+                "fileName": "测试excel.xslx",
+                "fileUrl": "https://view.officeapps.live.com/op/view.aspx?src=http%3A%2F%2Flearn.bankofamerica.com%2Fcontent%2Fexcel%2FWedding_Budget_Planner_Spreadsheet.xlsx",
+                "fileUpdateTime": "2017-5-26"
+              }
+            ]
+          },
+          {
+            "personHeaderImg": "https://avatars0.githubusercontent.com/u/1411118?v=3&s=460",
+            "personName": "范冰冰",
+            "dynamicTime": "上午5:32",
+            "dynamicType": "上传了文件",
+            "dynamicPlanContent": "计划内容",
+            "dynamicFileList": [
+              {
+                "fileType": "excel",
+                "fileUrl": "https://view.officeapps.live.com/op/view.aspx?src=http%3A%2F%2Flearn.bankofamerica.com%2Fcontent%2Fexcel%2FWedding_Budget_Planner_Spreadsheet.xlsx",
+                "fileUpdateTime": "2017-5-26",
+                "fileName": "测试.xslx"
+              },
+              {
+                "fileType": "word",
+                "fileUrl": "https://view.officeapps.live.com/op/view.aspx?src=http://www.snee.com/xml/xslt/sample.doc",
+                "fileUpdateTime": "2017-5-26",
+                "fileName": "测试word.doc"
+              },
+              {
+                "fileType": "image",
+                "fileHeaderImg": "https://avatars1.githubusercontent.com/u/623819?v=3&s=200",
+                "fileUrl": "https://avatars1.githubusercontent.com/u/623819?v=3&s=200",
+                "fileUpdateTime": "2017-5-26",
+                "fileName": "刘德华照片.img"
+              }
+            ]
+          },
+          {
+            "personHeaderImg": "https://avatars3.githubusercontent.com/u/15066998?v=3&s=460",
+            "personName": "李晨",
+            "dynamicTime": "上午10:30",
+            "dynamicType": "完成了项目子计划",
+            "dynamicPlanContent": "现场勘测，施工图设计"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "url": "/infore-audit/auditManageList",
+    "method": "post",
+    "response": {
+      "code": "0",
+      "message": "",
+      "body": {
+        "lists": [
+          {
+            "imgUrl": "https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=1105037253,1131367531&fm=26&gp=0.jpg",
+            "projectName": "甘肃省疏勒河流域项目",
+            "applicant": "chengnngeg",
+            "approvalTime": "2017/5/30",
+            "period_start": "2017/5/30",
+            "period_end": "2017/6/1",
+            "approver": "fejiofjwoij",
+            "flowState": "已通过",
+            "flowStyle": "延期审批"
+          },
+          {
+            "imgUrl": "http://img06.tooopen.com/images/20170514/tooopen_sy_209849089662.jpg",
+            "projectName": "甘肃省疏勒河流域项目",
+            "applicant": "chengnngeg",
+            "period_start": "2017/5/30",
+            "period_end": "2017/5/31",
+            "approvalTime": "2017/5/30",
+            "approver": "fejiofjwoij",
+            "flowState": "已拒绝",
+            "flowStyle": "完成审批"
+          },
+          {
+            "imgUrl": "http://img06.tooopen.com/images/20160922/tooopen_sy_179662854161.jpg",
+            "projectName": "甘肃省疏勒河流域项目",
+            "applicant": "chengnngeg",
+            "approvalTime": "2017/5/30",
+            "period_start": "2017/5/30",
+            "period_end": "2017/6/1",
+            "approver": "fejiofjwoij",
+            "flowState": "待审核",
+            "flowStyle": "变更审批"
+          },
+          {
+            "imgUrl": "http://img06.tooopen.com/images/20160906/tooopen_sy_177992564428.jpg",
+            "projectName": "甘肃省疏勒河流域项目",
+            "applicant": "chengnngeg",
+            "approvalTime": "2017/5/30",
+            "period_start": "2017/5/30",
+            "period_end": "2017/6/1",
+            "approver": "fejiofjwoij",
+            "flowState": "已拒绝",
+            "flowStyle": "变更审批"
+          },
+          {
+            "imgUrl": "http://img06.tooopen.com/images/20160906/tooopen_sy_177973146222.jpg",
+            "projectName": "甘肃省疏勒河流域项目",
+            "applicant": "chengnngeg",
+            "approvalTime": "2017/5/30",
+            "period_start": "2017/5/30",
+            "period_end": "2017/5/31",
+            "approver": "fejiofjwoij",
+            "flowState": "待审核",
+            "flowStyle": "变更审批"
+          },
+          {
+            "imgUrl": "https://ss0.bdstatic.com/94oJfD_bAAcT8t7mm9GUKT-xh_/timg?image&quality=100&size=b4000_4000&sec=1496299501&di=2937f94c9b896026a166a1ff15519a36&src=http://pic50.nipic.com/file/20141014/8442159_182826708000_2.jpg",
+            "projectName": "甘肃省疏勒河流域项目",
+            "applicant": "chengnngeg",
+            "approvalTime": "2017/5/30",
+            "period_start": "2017/5/30",
+            "period_end": "2017/6/1",
+            "approver": "fejiofjwoij",
+            "flowState": "已拒绝",
+            "flowStyle": "变更审批"
+          },
+          {
+            "imgUrl": "http://img06.tooopen.com/images/20160906/tooopen_sy_177973146222.jpg",
+            "projectName": "甘肃省疏勒河流域项目",
+            "applicant": "chengnngeg",
+            "approvalTime": "2017/5/30",
+            "period_start": "2017/5/30",
+            "period_end": "2017/5/31",
+            "approver": "fejiofjwoij",
+            "flowState": "已通过",
+            "flowStyle": "变更审批"
+          },
+          {
+            "imgUrl": "http://img06.tooopen.com/images/20160906/tooopen_sy_177973146222.jpg",
+            "projectName": "甘肃省疏勒河流域项目",
+            "applicant": "chengnngeg",
+            "approvalTime": "2017/5/30",
+            "period_start": "2017/5/30",
+            "period_end": "2017/6/1",
+            "approver": "fejiofjwoij",
+            "flowState": "已拒绝",
+            "flowStyle": "变更审批"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "url": "/infore-pro-manager/app/getApprovalRecordList",
+    "method": "post",
+    "response": {
+      "code": "0",
+      "message": "",
+      "body": {
+        "approvalRecordList": [
+          {
+            "personHeaderImg": "https://avatars3.githubusercontent.com/u/15066998?v=3&s=460",
+            "personName": "李晨",
+            "dynamicTime": "上午10:30",
+            "dynamicType": "0",
+            "reasonalContent": "何老板说行就行，你就照办好了，别叽叽歪歪！",
+            "dynamicFileList": [
+              {
+                "fileType": "excel",
+                "fileName": "测试excel.xslx",
+                "fileUrl": "https://view.officeapps.live.com/op/view.aspx?src=http%3A%2F%2Flearn.bankofamerica.com%2Fcontent%2Fexcel%2FWedding_Budget_Planner_Spreadsheet.xlsx",
+                "fileUpdateTime": "2017-5-26"
+              }
+            ]
+          },
+          {
+            "personHeaderImg": "https://avatars0.githubusercontent.com/u/1411118?v=3&s=460",
+            "personName": "范冰冰",
+            "dynamicTime": "上午5:32",
+            "dynamicType": "1",
+            "reasonalContent": "何老板说最近资金紧张，过段时间再考虑吧！",
+            "dynamicFileList": [
+              {
+                "fileType": "excel",
+                "fileUrl": "https://view.officeapps.live.com/op/view.aspx?src=http%3A%2F%2Flearn.bankofamerica.com%2Fcontent%2Fexcel%2FWedding_Budget_Planner_Spreadsheet.xlsx",
+                "fileUpdateTime": "2017-5-26",
+                "fileName": "测试.xslx"
+              },
+              {
+                "fileType": "word",
+                "fileUrl": "https://view.officeapps.live.com/op/view.aspx?src=http://www.snee.com/xml/xslt/sample.doc",
+                "fileUpdateTime": "2017-5-26",
+                "fileName": "测试word.doc"
+              },
+              {
+                "fileType": "image",
+                "fileHeaderImg": "https://avatars1.githubusercontent.com/u/623819?v=3&s=200",
+                "fileUrl": "https://avatars1.githubusercontent.com/u/623819?v=3&s=200",
+                "fileUpdateTime": "2017-5-26",
+                "fileName": "刘德华照片.img"
+              }
+            ]
+          },
+          {
+            "personHeaderImg": "https://avatars3.githubusercontent.com/u/15066998?v=3&s=460",
+            "personName": "李晨",
+            "dynamicTime": "上午10:30",
+            "dynamicType": "1",
+            "reasonalContent": "最近环保部门查得严，估计是跟相关官员吃饭送礼不到位，再想想办法吧，多花点钱都无所谓的，只要把项目拿下！"
+          },
+          {
+            "personHeaderImg": "https://avatars3.githubusercontent.com/u/15066998?v=3&s=460",
+            "personName": "李晨",
+            "dynamicTime": "上午10:30",
+            "dynamicType": "1",
+            "reasonalContent": "污染太严重了，被附近村民阻止了，可能是补偿没到位，何老板说允许再提高点补偿给村民，不然没法动工！"
+          },
+          {
+            "personHeaderImg": "https://avatars3.githubusercontent.com/u/15066998?v=3&s=460",
+            "personName": "李晨",
+            "dynamicTime": "上午10:30",
+            "dynamicType": "1",
+            "reasonalContent": "环保部不允许这麽干，何老板用钱都搞不定，你还是等消息吧！"
+          },
+          {
+            "personHeaderImg": "https://avatars3.githubusercontent.com/u/15066998?v=3&s=460",
+            "personName": "李晨",
+            "dynamicTime": "上午10:30",
+            "dynamicType": "1",
+            "reasonalContent": "何老板说可能是诈骗，先把项目缓一缓，等查清楚情况再做决定。"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "url": "/infore-pro-manager/app/getProjectFlow",
+    "method": "post",
+    "response": {
+      "code": "0",
+      "message": "",
+      "body": {
+        "projectFlow": {
+          "passed": [
+            {
+              "stage": "项目申报",
+              "charge": "陆川"
+            },
+            {
+              "stage": "发起会审",
+              "charge": "陆川"
+            },
+            {
+              "stage": "筹建项目",
+              "charge": "陆川"
+            },
+            {
+              "stage": "现场考察"
+            }
+          ],
+          "goingOn": [
+            {
+              "stage": "项目投标"
+            }
+          ],
+          "noBegin": [
+            {
+              "stage": "合同签订"
+            },
+            {
+              "stage": "项目执行"
+            },
+            {
+              "stage": "项目验收"
+            },
+            {
+              "stage": "项目总结"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "url": "/infore-pro-manager/app/getBasicSituationRequest",
+    "method": "post",
+    "response": {
+      "code": "0",
+      "message": "",
+      "body": {
+        "projectDetail": {
+          "contractNum": "YFHT09878932",
+          "contractType": "YFHT09878933",
+          "unitFullName": "委屈巴巴",
+          "signedTime": "2017-06-08",
+          "signaler": "委屈巴巴",
+          "getContractTime": "2017-06-08",
+          "contact": "1399999999999",
+          "expired": "1399999999999",
+          "industry": "1399999999999",
+          "totalNum": "1399999999999",
+          "signalPerson": "1399999999999",
+          "contractMoney": "1399999999999",
+          "installClause": "项目备注   甘肃省疏勒河流域项目是本年度公司重点项目，时间紧任务重，各位同仁需尽心尽力完成。",
+          "payClause": "项目备注   甘肃省疏勒河流域项目是本年度公司重点项目，时间紧任务重，各位同仁需尽心尽力完成。"
+        }
+      }
+    }
+  },
+  {
+    "url": "/infore-pro-manager/app/getOtherMessageRequest",
+    "method": "post",
+    "response": {
+      "code": "0",
+      "message": "",
+      "body": {
+        "projectDetail": {
+          "isSendCulvert": "YFHT09878932",
+          "particularSituation": "项目备注   甘肃省疏勒河流域项目是本年度公司重点项目，时间紧任务重，各位同仁需尽心尽力完成。",
+          "lawSuggestion": "项目备注   甘肃省疏勒河流域项目是本年度公司重点项目，时间紧任务重，各位同仁需尽心尽力完成。",
+          "subsequentSuggestion": "项目备注   甘肃省疏勒河流域项目是本年度公司重点项目，时间紧任务重，各位同仁需尽心尽力完成。",
+          "determinedPerson": "委屈巴巴",
+          "note": "项目备注   甘肃省疏勒河流域项目是本年度公司重点项目，时间紧任务重，各位同仁需尽心尽力完成。"
+        }
+      }
+    }
+  },
+  {
+    "url": "/infore-pro-manager/app/getPaymentListRequest",
+    "method": "post",
+    "response": {
+      "code": "0",
+      "message": "",
+      "body": {
+        "list": [
+          {
+            "projectName": "甘肃省疏勒河流域项目",
+            "projectNo": "YXNBYDD2017010",
+            "projectId": "INFORE_001",
+            "contractNo": "YXNBYDD2017010",
+            "paymentStage": "YXNBYDD2017010",
+            "paymentAmount": "30000",
+            "paymentState": 0
+          },
+          {
+            "projectName": "甘肃省疏勒河流域项目",
+            "projectNo": "YXNBYDD2017010",
+            "projectId": "INFORE_001",
+            "contractNo": "YXNBYDD2017010",
+            "paymentStage": "YXNBYDD2017010",
+            "paymentAmount": "30000",
+            "paymentState": 0
+          },
+          {
+            "projectName": "甘肃省疏勒河流域项目",
+            "projectNo": "YXNBYDD2017010",
+            "projectId": "INFORE_001",
+            "contractNo": "YXNBYDD2017010",
+            "paymentStage": "YXNBYDD2017010",
+            "paymentAmount": "30000",
+            "paymentState": 1
+          },
+          {
+            "projectName": "甘肃省疏勒河流域项目",
+            "projectNo": "YXNBYDD2017010",
+            "projectId": "INFORE_001",
+            "contractNo": "YXNBYDD2017010",
+            "paymentStage": "YXNBYDD2017010",
+            "paymentAmount": "30000",
+            "paymentState": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "url": "/infore-pro-manager/app/paymentRemindRequest",
+    "method": "post",
+    "response": {
+    }
+  }
+]

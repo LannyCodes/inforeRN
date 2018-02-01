@@ -1,0 +1,3 @@
+target 'inforeRN' do
+ pod 'Bugrpt', '~> 1.2.2'
+end
